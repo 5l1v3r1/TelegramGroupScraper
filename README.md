@@ -1,12 +1,12 @@
 # TelegramGroupScraper
-Telegram Group Members Scraper Script Make By @MrDDB
+Telegram Group Members Scraper Script Make By @MOrtis_xD
 
-Contact Me :- https://t.me/MrDDB
+Contact Me :- https://t.me/Mortis_xD
 
 Fork At Your Own Risk. 
 
 Members Adder Script Available.
-Message Me :- https://t.me/MrDDB
+Message Me :- https://t.me/Mortis_xD
 
 How Start Scraping.
 Simply clone the repository and run the main file:
